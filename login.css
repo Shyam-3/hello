@@ -1,0 +1,39 @@
+form
+{
+    padding: 35px;
+    padding-left: 175px;
+    margin: 75px;
+    margin-left: 300px;
+    margin-right: 250px;
+    border-radius: 9px;
+    border-top-left-radius: 25px;
+    border-style: solid;
+    border-color: darkgreen;
+            
+}
+p
+{
+    padding-left: 140px;
+}
+label
+{
+    font-weight: bold;
+    font-size: xx-large;
+}
+button
+{
+    padding-left: 135px;
+    padding-right: 95px;
+    font-size: larger;
+}
+input,select
+{
+    font-size: larger;
+}
+.form1
+{
+    border-style: hidden;
+    border-color: hotpink;
+    margin: 20px;
+    padding: 3mm;
+}
